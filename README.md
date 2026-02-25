@@ -9,7 +9,7 @@ Como **CTO de JP Development**, me especializo en liderar equipos técnicos y de
 - **Herramientas:** Git, Docker, metodologías Ágiles.
 
 ### 🚀 Proyectos Destacados
-- **Velbet:** Aplicación móvil en producción (React Native).
+- **Velbet:** Aplicación móvil en producción (React Native). ![Ver](https://velbet.co)
 - **StreetCalm:** Plataforma de validación comunitaria para el sector turístico en Cartagena.
 - **Music Fintech:** Sistema automatizado de pagos de "song splits" escalado en AWS.
 
