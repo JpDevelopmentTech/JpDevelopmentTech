@@ -15,7 +15,7 @@ Como **CTO de JP Development**, me especializo en liderar equipos técnicos y de
 
 ### 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-streak-stats.herokuapp.com/?user=JpDevelopmentTech&theme=dracula)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api?username=JpDevelopmentTech&show_icons=true&theme=dracula&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide=html,css)
 
 ---
 📫 **¿Cómo contactarme?**
