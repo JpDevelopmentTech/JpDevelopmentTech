@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Jesus Pineda 👋
 
-<!--
-**JpDevelopmentTech/JpDevelopmentTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como **CTO de JP Development**, me especializo en liderar equipos técnicos y desarrollar aplicaciones de alto impacto. Mi enfoque combina la arquitectura de software robusta con la implementación de IA para optimizar procesos de negocio.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías & Stack
+- **Frontend:** React, React Native (Especialista en Mobile), Next.js.
+- **Backend:** Node.js, Express, MongoDB, AWS.
+- **IA & Automatización:** n8n, LangChain, Agentes de IA.
+- **Herramientas:** Git, Docker, metodologías Ágiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+- **Velbet:** Aplicación móvil en producción (React Native).
+- **StreetCalm:** Plataforma de validación comunitaria para el sector turístico en Cartagena.
+- **Music Fintech:** Sistema automatizado de pagos de "song splits" escalado en AWS.
+
+### 📈 Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=JpDevelopmentTech&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JpDevelopmentTech&layout=compact&theme=radical)
+
+---
+📫 **¿Cómo contactarme?**
+- **LinkedIn:** [Tu Enlace](https://www.linkedin.com/in/jesuspinedagambin/)
+- **Web:** [JP Development Enlace](https://jpdev.com.co)
+- **Ubicación:** Medellin, Colombia 🇨🇴
